@@ -46,3 +46,31 @@ See some real-world applications of GANs, learn about their fundamental componen
 **Assignment:** 
 
 - [Your First GAN](./C1W1_Your_First_GAN.ipynb)
+
+#### Week 2: Deep Convolutional GANs
+
+Learn about different activation functions, batch normalization, and transposed convolutions to tune your GAN architecture and apply them to build an advanced DCGAN specifically for processing images!
+
+**Learning Targets:** 
+
+- Be able to explain the components of a Deep Convolutional GAN.
+- Compose a Deep Convolutional GAN using these components.
+- Examine the difference between upsampling and transposed convolutions.
+
+**Assignment:** 
+
+- [Deep Convolutional GAN (DCGAN)](./C1W2_DCGAN.ipynb)
+
+#### Week 3: Wasserstein GANs with Gradient Penalty
+
+Learn advanced techniques to reduce instances of GAN failure due to imbalances between the generator and discriminator! Implement a WGAN to mitigate unstable training and mode collapse using W-Loss and Lipschitz Continuity enforcement.
+
+**Learning Targets:** 
+
+- Examine the cause and effect of an issue in GAN training known as mode collapse.
+- Implement a Wasserstein GAN with Gradient Penalty to remedy mode collapse.
+- Understand the motivation and condition needed for Wasserstein-Loss.
+
+**Assignment:** 
+
+- WGAN
