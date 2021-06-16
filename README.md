@@ -74,3 +74,17 @@ Learn advanced techniques to reduce instances of GAN failure due to imbalances b
 **Assignment:** 
 
 - WGAN
+
+#### Week 4: Conditional GAN & Controllable Generation
+
+Understand how to effectively control your GAN, modify the features in a generated image, and build conditional GANs capable of generating examples from determined categories!
+
+**Learning Targets:** 
+
+- Control GAN generated outputs by adding conditional inputs.
+- Control GAN generated outputs by manipulating z-vectors.
+- Be able to explain disentanglement in a GAN.
+
+**Assignment:** 
+
+- Conditional GAN
