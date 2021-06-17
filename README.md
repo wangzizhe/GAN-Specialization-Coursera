@@ -73,7 +73,7 @@ Learn advanced techniques to reduce instances of GAN failure due to imbalances b
 
 **Assignment:** 
 
-- WGAN
+- [WGAN](./C1W3_WGAN_GP_small.ipynb)
 
 #### Week 4: Conditional GAN & Controllable Generation
 
