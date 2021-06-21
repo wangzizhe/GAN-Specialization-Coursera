@@ -87,4 +87,5 @@ Understand how to effectively control your GAN, modify the features in a generat
 
 **Assignment:** 
 
-- Conditional GAN
+- [Conditional GAN](./C1W4A_Build_a_Conditional_GAN.ipynb)
+- [Controllable Generation](./C1W4B_Controllable_Generation.ipynb)
