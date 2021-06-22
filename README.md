@@ -89,3 +89,29 @@ Understand how to effectively control your GAN, modify the features in a generat
 
 - [Conditional GAN](./C1W4A_Build_a_Conditional_GAN.ipynb)
 - [Controllable Generation](./C1W4B_Controllable_Generation.ipynb)
+
+### Course 2: Build Better Generative Adversarial Networks (GANs)
+
+In this course, you will:
+
+\- Assess the challenges of evaluating GANs and compare different generative models
+
+\- Use the Fréchet Inception Distance (FID) method to evaluate the fidelity and diversity of GANs
+
+\- Identify sources of bias and the ways to detect it in GANs
+
+\- Learn and implement the techniques associated with the state-of-the-art StyleGANs
+
+#### Week 1: Evaluation of GANs
+
+Understand the challenges of evaluating GANs, learn about the advantages and disadvantages of different GAN performance measures, and implement the Fréchet Inception Distance (FID) method using embeddings to assess the accuracy of GANs!
+
+**Learning Targets:** 
+
+- Differentiate across different evaluation metrics and their pros/cons.
+- Justify the use of feature embeddings in GAN evaluation.
+- Evaluate your GANs by implementing Fréchet Inception Distance (FID) and Inception Score.
+
+**Assignment:** 
+
+- Fréchet Inception Distance
