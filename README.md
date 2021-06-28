@@ -46,6 +46,7 @@ See some real-world applications of GANs, learn about their fundamental componen
 **Assignment:** 
 
 - [Your First GAN](./C1W1_Your_First_GAN.ipynb)
+- In this notebook, you're going to create your first generative adversarial network (GAN) for this course! Specifically, you will build and train a GAN that can generate hand-written images of digits (0-9). You will be using PyTorch in this specialization, so if you're not familiar with this framework, you may find the [PyTorch documentation](https://pytorch.org/docs/stable/index.html) useful. The hints will also often include links to relevant documentation.
 
 #### Week 2: Deep Convolutional GANs
 
