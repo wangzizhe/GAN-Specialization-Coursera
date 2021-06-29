@@ -43,7 +43,7 @@ See some real-world applications of GANs, learn about their fundamental componen
 - Develop intuition behind GANs and their components.
 - Examine real life applications of GANs.
 
-**Assignment:** 
+**Programming Assignment:** 
 
 - [Your First GAN](./C1W1_Your_First_GAN.ipynb)
 - In this notebook, you're going to create your first generative adversarial network (GAN) for this course! Specifically, you will build and train a GAN that can generate hand-written images of digits (0-9). You will be using PyTorch in this specialization, so if you're not familiar with this framework, you may find the [PyTorch documentation](https://pytorch.org/docs/stable/index.html) useful. The hints will also often include links to relevant documentation.
@@ -58,9 +58,10 @@ Learn about different activation functions, batch normalization, and transposed 
 - Compose a Deep Convolutional GAN using these components.
 - Examine the difference between upsampling and transposed convolutions.
 
-**Assignment:** 
+**Programming Assignment:** 
 
 - [Deep Convolutional GAN (DCGAN)](./C1W2_DCGAN.ipynb)
+- In this notebook, you're going to create another GAN using the MNIST dataset. You will implement a Deep Convolutional GAN (DCGAN), a very successful and influential GAN model developed in 2015. 
 
 #### Week 3: Wasserstein GANs with Gradient Penalty
 
@@ -72,7 +73,7 @@ Learn advanced techniques to reduce instances of GAN failure due to imbalances b
 - Implement a Wasserstein GAN with Gradient Penalty to remedy mode collapse.
 - Understand the motivation and condition needed for Wasserstein-Loss.
 
-**Assignment:** 
+**Programming Assignment:** 
 
 - [WGAN](./C1W3_WGAN_GP_small.ipynb)
 
@@ -86,7 +87,7 @@ Understand how to effectively control your GAN, modify the features in a generat
 - Control GAN generated outputs by manipulating z-vectors.
 - Be able to explain disentanglement in a GAN.
 
-**Assignment:** 
+**Programming Assignment:** 
 
 - [Conditional GAN](./C1W4A_Build_a_Conditional_GAN.ipynb)
 - [Controllable Generation](./C1W4B_Controllable_Generation.ipynb)
@@ -113,6 +114,6 @@ Understand the challenges of evaluating GANs, learn about the advantages and dis
 - Justify the use of feature embeddings in GAN evaluation.
 - Evaluate your GANs by implementing Fréchet Inception Distance (FID) and Inception Score.
 
-**Assignment:** 
+**Programming Assignment:** 
 
 - Fréchet Inception Distance
