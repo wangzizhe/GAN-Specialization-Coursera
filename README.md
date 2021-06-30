@@ -76,6 +76,7 @@ Learn advanced techniques to reduce instances of GAN failure due to imbalances b
 **Programming Assignment:** 
 
 - [WGAN](./C1W3_WGAN_GP_small.ipynb)
+- In this notebook, you're going to build a Wasserstein GAN with Gradient Penalty (WGAN-GP) that solves some of the stability issues with the GANs that you have been using up until this point. Specifically, you'll use a special kind of loss function known as the W-loss, where W stands for Wasserstein, and gradient penalties to prevent mode collapse.
 
 #### Week 4: Conditional GAN & Controllable Generation
 
