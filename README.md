@@ -91,7 +91,9 @@ Understand how to effectively control your GAN, modify the features in a generat
 **Programming Assignment:** 
 
 - [Conditional GAN](./C1W4A_Build_a_Conditional_GAN.ipynb)
+- In this notebook, you're going to make a conditional GAN in order to generate hand-written images of digits, conditioned on the digit to be generated (the class vector). This will let you choose what digit you want to generate.  You'll then do some exploration of the generated images to visualize what the noise and class vectors mean. 
 - [Controllable Generation](./C1W4B_Controllable_Generation.ipynb)
+- In this notebook, you're going to implement a GAN controllability method using gradients from a classifier. By training a classifier to recognize a relevant feature, you can use it to change the generator's inputs (z-vectors) to make it generate images with more or less of that feature. This will also be the first notebook where you generate faces, as we work our way up to StyleGAN in the next course!
 
 ### Course 2: Build Better Generative Adversarial Networks (GANs)
 
