@@ -37,7 +37,7 @@ In this course, you will:
 
 See some real-world applications of GANs, learn about their fundamental components, and build your very own GAN using PyTorch!
 
-**Learning Targets:** 
+**Learning Objectives:** 
 
 - Construct your first GAN.
 - Develop intuition behind GANs and their components.
@@ -52,7 +52,7 @@ See some real-world applications of GANs, learn about their fundamental componen
 
 Learn about different activation functions, batch normalization, and transposed convolutions to tune your GAN architecture and apply them to build an advanced DCGAN specifically for processing images!
 
-**Learning Targets:** 
+**Learning Objectives:** 
 
 - Be able to explain the components of a Deep Convolutional GAN.
 - Compose a Deep Convolutional GAN using these components.
@@ -67,7 +67,7 @@ Learn about different activation functions, batch normalization, and transposed 
 
 Learn advanced techniques to reduce instances of GAN failure due to imbalances between the generator and discriminator! Implement a WGAN to mitigate unstable training and mode collapse using W-Loss and Lipschitz Continuity enforcement.
 
-**Learning Targets:** 
+**Learning Objectives:** 
 
 - Examine the cause and effect of an issue in GAN training known as mode collapse.
 - Implement a Wasserstein GAN with Gradient Penalty to remedy mode collapse.
@@ -82,7 +82,7 @@ Learn advanced techniques to reduce instances of GAN failure due to imbalances b
 
 Understand how to effectively control your GAN, modify the features in a generated image, and build conditional GANs capable of generating examples from determined categories!
 
-**Learning Targets:** 
+**Learning Objectives:** 
 
 - Control GAN generated outputs by adding conditional inputs.
 - Control GAN generated outputs by manipulating z-vectors.
@@ -111,7 +111,7 @@ In this course, you will:
 
 Understand the challenges of evaluating GANs, learn about the advantages and disadvantages of different GAN performance measures, and implement the Fréchet Inception Distance (FID) method using embeddings to assess the accuracy of GANs!
 
-**Learning Targets:** 
+**Learning Objectives:** 
 
 - Differentiate across different evaluation metrics and their pros/cons.
 - Justify the use of feature embeddings in GAN evaluation.
@@ -120,3 +120,18 @@ Understand the challenges of evaluating GANs, learn about the advantages and dis
 **Programming Assignment:** 
 
 - Fréchet Inception Distance
+
+#### Week 2: GAN Disadvantages and Bias
+
+Learn the disadvantages of GANs when compared to other generative models, discover the pros/cons of these models—plus, learn about the many places where bias in machine learning can come from, why it’s important, and an approach to identify it in GANs!
+
+**Learning Objectives:** 
+
+- Propose generative model alternatives to GANs and their pros/cons.
+- Scrutinize bias in machine learning and examine its various sources.
+- Describe an application of GANs that demonstrates bias.
+- Explain several definitions of fairness in machine learning.
+
+**Programming Assignment:** 
+
+- Bias
