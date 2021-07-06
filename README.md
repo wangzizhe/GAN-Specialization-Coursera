@@ -119,7 +119,8 @@ Understand the challenges of evaluating GANs, learn about the advantages and dis
 
 **Programming Assignment:** 
 
-- Fréchet Inception Distance
+- [Fréchet Inception Distance](./C2W1_FID.ipynb)
+- In this notebook, you're going to gain a better understanding of some of the challenges that come with evaluating GANs and a response you can take to alleviate some of them called Fréchet Inception Distance (FID).
 
 #### Week 2: GAN Disadvantages and Bias
 
