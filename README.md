@@ -135,4 +135,20 @@ Learn the disadvantages of GANs when compared to other generative models, discov
 
 **Programming Assignment:** 
 
-- Bias
+- [Bias](./C2W2_Bias.ipynb)
+- In this notebook, you're going to explore a way to identify some biases of a GAN using a classifier, in a way that's well-suited for attempting to make a model independent of an input. Note that not all biases are as obvious as the ones you will see here.
+
+#### Week 3: StyleGAN and Advancements
+
+Learn how StyleGAN improves upon previous models and implement the components and the techniques associated with StyleGAN, currently the most state-of-the-art GAN with powerful capabilities!
+
+**Learning Objectives:** 
+
+- Analyze key advancements of GANs.
+- Build and compose the components of StyleGAN.
+- Investigate the controllability, fidelity, and diversity of StyleGAN outputs.
+
+**Programming Assignment:** 
+
+- Components of StyleGAN
+- In this notebook, you're going to implement various components of StyleGAN, including the truncation trick, the mapping layer, noise injection, adaptive instance normalization (AdaIN), and progressive growing.
