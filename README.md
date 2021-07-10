@@ -152,3 +152,5 @@ Learn how StyleGAN improves upon previous models and implement the components an
 
 - Components of StyleGAN
 - In this notebook, you're going to implement various components of StyleGAN, including the truncation trick, the mapping layer, noise injection, adaptive instance normalization (AdaIN), and progressive growing.
+
+### Course 3
