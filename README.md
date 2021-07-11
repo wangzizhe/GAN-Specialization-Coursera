@@ -18,7 +18,7 @@ This Specialization includes three courses:
 
 ## About this Repo
 
-In this repo you'll find all  programming assignments I finished from this Specialization.
+This repo includes an introduction of this Specialization and all programming assignments I finished.
 
 ## Programming Assignments
 ### Course 1: Build Basic Generative Adversarial Networks (GANs)
