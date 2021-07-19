@@ -23,8 +23,6 @@ This repo includes an introduction of this Specialization and all programming as
 ## Programming Assignments
 ### Course 1: Build Basic Generative Adversarial Networks (GANs)
 
-In this course, you will:
-
 \- Learn about GANs and their applications
 
 \- Understand the intuition behind the fundamental components of GANs 
@@ -97,8 +95,6 @@ Understand how to effectively control your GAN, modify the features in a generat
 
 ### Course 2: Build Better Generative Adversarial Networks (GANs)
 
-In this course, you will:
-
 \- Assess the challenges of evaluating GANs and compare different generative models
 
 \- Use the Fréchet Inception Distance (FID) method to evaluate the fidelity and diversity of GANs
@@ -154,3 +150,13 @@ Learn how StyleGAN improves upon previous models and implement the components an
 - In this notebook, you're going to implement various components of StyleGAN, including the truncation trick, the mapping layer, noise injection, adaptive instance normalization (AdaIN), and progressive growing.
 
 ### Course 3: Apply Generative Adversarial Networks (GANs)
+
+\- Explore the applications of GANs and examine them wrt data augmentation, privacy, and anonymity
+
+\- Leverage the image-to-image translation for framework and identify applications to modalities beyond images
+
+\- Implement Pix2Pix, a paired image-to-image translation GAN, to adapt satellite images into map route (and vice versa)
+
+\- Compare paired image-to-image translation to unpaired image-to-image translation and identify how their key difference necessitates different GAN architectures
+
+\- Implement CycleGAN, an unpaired image-to-image translation model, to adapt horses to zebras (and vice versa) with two GANs in one
