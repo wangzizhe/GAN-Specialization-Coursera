@@ -169,3 +169,8 @@ Learn different applications of GANs, understand the pros/cons of using them for
 
 - Explore different applications of GANs and examine their specific applications in data augmentation, privacy, and anonymity.
 - Improve your downstream AI models with GAN-generated data.
+
+**Programming Assignment:** 
+
+- Data Augmentation
+- In this notebook, you're going to build a generator that can be used to help create data to train a classifier. You'll learn to understand some use cases for data augmentation and why GANs suit this task.
