@@ -172,5 +172,5 @@ Learn different applications of GANs, understand the pros/cons of using them for
 
 **Programming Assignment:** 
 
-- Data Augmentation
+- [Data Augmentation](./C3W1_Data_Augmentation.ipynb)
 - In this notebook, you're going to build a generator that can be used to help create data to train a classifier. You'll learn to understand some use cases for data augmentation and why GANs suit this task.
