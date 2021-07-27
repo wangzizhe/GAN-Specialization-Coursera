@@ -174,3 +174,18 @@ Learn different applications of GANs, understand the pros/cons of using them for
 
 - [Data Augmentation](./C3W1_Data_Augmentation.ipynb)
 - In this notebook, you're going to build a generator that can be used to help create data to train a classifier. You'll learn to understand some use cases for data augmentation and why GANs suit this task.
+
+#### Week 2: Image-to-Image Translation with Pix2Pix
+
+Understand image-to-image translation, learn about different applications of this framework, and implement a U-Net generator and Pix2Pix, a paired image-to-image translation GAN!
+
+**Learning Objectives:** 
+
+- Learn and leverage the image-to-image translation framework.
+- Identify extensions, generalizations, and applications of this framework to modalities beyond images.
+- Implement a paired image-to-image translation GAN, called Pix2Pix, to turn satellite images into map routes (and vice versa), with advanced U-Net generator and PatchGAN discriminator architectures.
+
+**Programming Assignment:** 
+
+- U-Net
+- In this notebook, you're going to implement a U-Net for a biomedical imaging segmentation task. Specifically, you're going to be labeling neurons, so one might call this a neural neural network! ;) Note that this is not a GAN, generative model, or unsupervised learning task. This is a supervised learning task, so there's only one correct answer (like a classifier!) You will see how this component underlies the Generator component of Pix2Pix in the next notebook this week.
