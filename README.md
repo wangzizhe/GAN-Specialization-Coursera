@@ -187,5 +187,5 @@ Understand image-to-image translation, learn about different applications of thi
 
 **Programming Assignment:** 
 
-- U-Net
+- U-Net(./C3W2A_U-Net.ipynb)
 - In this notebook, you're going to implement a U-Net for a biomedical imaging segmentation task. Specifically, you're going to be labeling neurons, so one might call this a neural neural network! ;) Note that this is not a GAN, generative model, or unsupervised learning task. This is a supervised learning task, so there's only one correct answer (like a classifier!) You will see how this component underlies the Generator component of Pix2Pix in the next notebook this week.
