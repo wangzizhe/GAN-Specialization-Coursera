@@ -191,3 +191,17 @@ Understand image-to-image translation, learn about different applications of thi
 - In this notebook, you're going to implement a U-Net for a biomedical imaging segmentation task. Specifically, you're going to be labeling neurons, so one might call this a neural neural network! ;) Note that this is not a GAN, generative model, or unsupervised learning task. This is a supervised learning task, so there's only one correct answer (like a classifier!) You will see how this component underlies the Generator component of Pix2Pix in the next notebook this week.
 - [Pix2Pix](./C3W2B_Pix2Pix.ipynb)
 - In this notebook, you will write a generative model based on the paper Image-to-Image Translation with Conditional Adversarial Networks by Isola et al. 2017, also known as Pix2Pix.You will be training a model that can convert aerial satellite imagery ("input") into map routes ("output"), as was done in the original paper. Since the architecture for the generator is a U-Net, which you've already implemented (with minor changes), the emphasis of the assignment will be on the loss function. So that you can see outputs more quickly, you'll be able to see your model train starting from a pre-trained checkpoint - but feel free to train it from scratch on your own too.
+
+#### Week 3: Unpaired Translation with CycleGAN
+
+Understand how unpaired image-to-image translation differs from paired translation, learn how CycleGAN implements this model using two GANs, and implement a CycleGAN to transform between horses and zebras!
+
+**Learning Objectives:** 
+
+- Compare paired image-to-image translation to unpaired image-to-image translation.
+- Identify how their key difference necessitates a different GAN architecture.
+- Implement unpaired image-to-image translation model, called CycleGAN, to adapt horses to zebras (and vice versa) with two GANs in one.
+
+**Programming Assignment:** 
+
+- [CycleGAN]()
