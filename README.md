@@ -204,4 +204,6 @@ Understand how unpaired image-to-image translation differs from paired translati
 
 **Programming Assignment:** 
 
-- [CycleGAN]()
+- [CycleGAN](./C3W3_CycleGAN.ipynb)
+- In this notebook, you will write a generative model based on the paper [Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks](https://arxiv.org/abs/1703.10593) by Zhu et al. 2017, commonly referred to as CycleGAN. You will be training a model that can convert horses into zebras, and vice versa. Once again, the emphasis of the assignment will be on the loss functions. In order for you to see good outputs more quickly, you'll be training your model starting from a pre-trained checkpoint. You are also welcome to train it from scratch on your own, if you so choose.
+
